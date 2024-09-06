@@ -1,0 +1,3 @@
+C:/Users/s057438/CLionProjects/strukturinis-programavimas/cmake-build-debug/CMakeFiles/strukturinis_programavimas.dir
+C:/Users/s057438/CLionProjects/strukturinis-programavimas/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/s057438/CLionProjects/strukturinis-programavimas/cmake-build-debug/CMakeFiles/rebuild_cache.dir
